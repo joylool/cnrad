@@ -3,7 +3,7 @@
 
 ---
 
-<a href="https://discord.com/users/705665813994012695">
+<a href="https://discord.com/users/841039650541010945">
   <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
